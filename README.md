@@ -3,4 +3,5 @@ The Live Weather App is a React.js project that utilizes an API to fetch real-ti
 
 ![Uploading Screenshot (48).png…]()
 
-               View Complete Installation from : https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93
+               View Complete Installation from :
+               https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93
